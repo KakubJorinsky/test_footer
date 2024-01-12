@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+
+main{
+    height: 900px;
+}
+
+footer{
+    background-color: rgb(80, 86, 102);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.wrapper{
+    padding: 15px;
+    width: 250px;
+    margin-left: 790px;
+
+}
+
+.carecka{
+    border-bottom: 1px solid white;
+    width: 100px;
+    margin-left: 75px;
+    padding: 0;
+}
+
+.carecka2{
+    border-bottom: 1px solid white;
+    width: 150px;
+    margin-left: 50px;
+    padding: 0;
+}
+
+.wrapper h3{
+    font-weight: bold;
+    padding: 3px;
+    border-bottom: 1px solid white;
+    width: 80px;
+    margin-left: 85px;
+}
+
+.wrapper h2{
+    font-weight: bold;
+    padding: 3px;
+    border-bottom: 1px solid white;
+    width: 170px;
+    margin-left: 40px;
+    
+}
+
+.hacko{
+    text-align: center;
+}
+
+.linky{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.kontaktisky{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.oteviraci_dobicka{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#dny{
+    font-weight: bold;
+}
+
+#vecicky{
+    font-weight: bold;
+}
+
+#vecicky2{
+    text-align: left;
+}
